@@ -1,6 +1,4 @@
 'Version 00.03 for CR6 + CDM-A116 + IRGASON or CSAT3A & EC150 + slow microclimate sensors, based on EasyFlux_DL for CR3000
-
-'Copyright (c), 2014, 2015, 2016 Campbell Scientific, Inc. All rights reserved.
 'This program is intended for use with Campbell Scientific open-path eddy-covariance systems manufactured after Fall 2010 that use an EC150 with CSAT3A or an IRGASON.
 'The most common or “best practice” corrections are applied to fluxes in this program.  Consult the manual for details on these corrections.  It is the responsibility
 'of the user to determine appropriateness of the corrections used. Campbell Scientific always recommends saving raw time series data in case reprocessing of raw data 
